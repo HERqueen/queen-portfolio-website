@@ -1,2 +1,2 @@
 # queen-portfolio-website
-Queens SEO & Content Strategy Portfolio
+Queen's SEO & Content Strategy Portfolio
