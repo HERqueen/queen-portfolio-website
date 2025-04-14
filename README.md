@@ -1,2 +1,2 @@
 # jaqueen-portfolio-website
-Personal Portfolio Website
+Queens SEO & Content Strategy Portfolio
