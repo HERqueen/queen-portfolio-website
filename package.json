@@ -1,0 +1,22 @@
+{
+  "name": "queen-portfolio",
+  "version": "1.0.0",
+  "description": "A personal portfolio for Queen - SEO & Content Strategist",
+  "main": "src/QueenPortfolioPage.jsx",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["portfolio", "seo", "content", "react", "vite"],
+  "author": "Queen",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0",
+    "@vitejs/plugin-react": "^3.1.0"
+  }
+}
