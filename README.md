@@ -1,2 +1,2 @@
-# jaqueen-portfolio-website
+# queen-portfolio-website
 Queens SEO & Content Strategy Portfolio
